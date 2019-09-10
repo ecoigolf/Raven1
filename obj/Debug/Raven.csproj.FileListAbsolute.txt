@@ -1,0 +1,14 @@
+C:\Users\Onshore\source\repos\Raven\obj\Debug\Raven.csprojAssemblyReference.cache
+C:\Users\Onshore\source\repos\Raven\obj\Debug\Raven.csproj.CoreCompileInputs.cache
+C:\Users\Onshore\source\repos\Raven\bin\Debug\Raven.exe.config
+C:\Users\Onshore\source\repos\Raven\bin\Debug\Raven.exe
+C:\Users\Onshore\source\repos\Raven\bin\Debug\Raven.pdb
+C:\Users\Onshore\source\repos\Raven\bin\Debug\RavenDAL.dll
+C:\Users\Onshore\source\repos\Raven\bin\Debug\RavenDAL.pdb
+C:\Users\Onshore\source\repos\Raven\obj\Debug\Raven.csproj.CopyComplete
+C:\Users\Onshore\source\repos\Raven\obj\Debug\Raven.exe
+C:\Users\Onshore\source\repos\Raven\obj\Debug\Raven.pdb
+C:\Users\Onshore\source\repos\Raven\bin\Debug\LumberJack.dll
+C:\Users\Onshore\source\repos\Raven\bin\Debug\LumberJack.pdb
+C:\Users\Onshore\source\repos\Raven\bin\Debug\RavenBLL.dll
+C:\Users\Onshore\source\repos\Raven\bin\Debug\RavenBLL.pdb
